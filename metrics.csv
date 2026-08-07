@@ -1,0 +1,5 @@
+﻿model   val_MAE val_MSE val_R2  test_MAE    test_MSE    test_R2
+Linear Regression               1.000000            
+Random Forest               0.819600            
+VotingEnsemble  25.977099   1442.246223 0.926521    16.218192   369.778471  0.980835
+BayesianEnsemble    0.081580    0.011357    0.999999    0.087236    0.011336    0.999999
